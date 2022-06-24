@@ -9,3 +9,4 @@ class Hyper:
 
     def HYPER(self):
         return (self.language, self.domain)
+
