@@ -1,4 +1,3 @@
-
 class Hyper:
     def __init__(self):
         self.language = "python"
