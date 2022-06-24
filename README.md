@@ -1,2 +1,2 @@
-def HYPER(self):
+def HYPER():
     return ("Python", "Loubia")
